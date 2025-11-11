@@ -17,7 +17,7 @@ https://old.kali.org/kali-images/kali-2022.2/
 # Ya que tengas iniciada tu maquina virtual ya con linux funcionando puedes continuar con lo siguiente
 # Configuracion inicial de **Kali Linux 2022.2**
 
-## 🧩 Paso 1: Editar el archivo `sources.list`
+# 🧩 Paso 1: Editar el archivo `sources.list`
 Abre el archivo de fuentes con el siguiente comando:
 ```bash
 sudo nano /etc/apt/sources.list
@@ -64,9 +64,13 @@ Accede al siguiente enlace:
 ```bash
 http://old.kali.org/kali/pool/main/l/linux/
 ```
-Busca y descarga el paquete:
-linux-headers-5.16.0-kali7
-
+Busca y descarga los siguientes paquetes:
+```bash
+linux-headers-5.16.0-kali7-amd64_5.16.18-1kali1_amd64.deb
+linux-headers-5.16.0-kali7-common_5.16.18-1kali1_all.deb
+linux-kbuild-5.16_5.16.18-1kali1_amd64.deb
+linux-compiler-gcc-11-x86_5.15.15-2kali1_amd64.deb
+```
 🧱 Paso 7: Fijar el kernel y GRUB a la versión 5.16
 Edita el archivo del GRUB:
 ```bash
