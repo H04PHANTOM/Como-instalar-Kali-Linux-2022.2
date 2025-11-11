@@ -1,11 +1,5 @@
 # Como-instalar-Kali-Linux-2022.2
-Este repo es una guia de instalacion de Kali Linux 2022.2 la cual es una Version de Kali muy estable 
-
-
-# 🐉 Instalación de Kali Linux 2022.2
-![Kali Linux Logo](./kali-linux.png)
-<!-- Reemplaza ./kali-linux.png con la ruta de tu imagen o un enlace directo -->
-Este documento detalla el procedimiento para instalar y configurar **Kali Linux 2022.2**, asegurando compatibilidad y estabilidad con el kernel **5.16**.
+Este repo es una guia de instalacion de **Kali Linux 2022.2** asegurando compatibilidad y estabilidad con el kernel **5.16**.
 > ⚠️ **Importante:** Sigue los pasos exactamente en el orden indicado para evitar errores durante la instalación.
 ---
 ## 📥 Paso 1: Ingresar al enlace de descarga
