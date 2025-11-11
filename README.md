@@ -67,10 +67,10 @@ http://old.kali.org/kali/pool/main/l/linux/
 ```
 Busca y descarga los siguientes paquetes:
 ```bash
-linux-headers-5.16.0-kali7-amd64_5.16.18-1kali1_amd64.deb
-linux-headers-5.16.0-kali7-common_5.16.18-1kali1_all.deb
-linux-kbuild-5.16_5.16.18-1kali1_amd64.deb
-linux-compiler-gcc-11-x86_5.15.15-2kali1_amd64.deb
+linux-headers-5.16.0-kali7-amd64_5.16.18
+linux-headers-5.16.0-kali7-common_5.16.18
+linux-kbuild-5.16_5.16.18-1kali1
+linux-compiler-gcc-11-x86_5.16.18
 ```
 🧱 Paso 7: Fijar el kernel y GRUB a la versión 5.16
 Edita el archivo del GRUB:
