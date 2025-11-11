@@ -2,7 +2,7 @@
 Este repo es una guia de instalacion de **Kali Linux 2022.2** asegurando compatibilidad y estabilidad con el kernel **5.16**.
 > ⚠️ **Importante:** Sigue los pasos exactamente en el orden indicado para evitar errores durante la instalación.
 ---
-## 📥 Fase 1: Descarga la ISO de Kali Linux 2022.2 y Descarga Virtual Box
+# 📥 Fase 1: Descarga la ISO de Kali Linux 2022.2 y Descarga Virtual Box
 
 Primero Instala Virtual Box de su fuente oficial 
 ```bash
