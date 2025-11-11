@@ -15,9 +15,10 @@ https://old.kali.org/kali-images/kali-2022.2/
 ```
 ---
 # Ya que tengas iniciada tu maquina virtual ya con linux funcionando puedes continuar con lo siguiente
-# Configuracion inicial de **Kali Linux 2022.2**
 
-# 🧩 Paso 1: Editar el archivo `sources.list`
+Configuracion inicial de **Kali Linux 2022.2**
+
+🧩 Paso 1: Editar el archivo `sources.list`
 Abre el archivo de fuentes con el siguiente comando:
 ```bash
 sudo nano /etc/apt/sources.list
